@@ -1,0 +1,8 @@
+a=input("enter any word")
+c=input("enter the letter")
+count = 0
+for i in a:
+           if i==c:
+                           count=count+1               
+
+print(count)
