@@ -1,0 +1,9 @@
+x=[]
+x.append(10)
+x.append(25)
+x.append(96)
+x.append(66)
+print(x[0],x[1],x[2],x[3])
+x.pop(0)
+print(x)
+
