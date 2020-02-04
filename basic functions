@@ -1,0 +1,16 @@
+def add(x,y):
+  c=x+y
+  print(c)
+add(20,30)
+def sub(x,y):
+  c=x-y
+  print(c)
+sub(20,30)
+def mult(x,y):
+  c=x*y
+  print(c)
+mult(20,30)
+def divide(x,y):
+  c=x//y
+  print(c)
+divide(320,30)
